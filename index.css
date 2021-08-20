@@ -1,0 +1,42 @@
+* {
+    font-family: "Trebuchet MS"
+}
+header{
+    background-image:url(gambar/background/ud.gif);
+    width: 1366px;
+    height: 768px;
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    text-transform: uppercase;
+    color: salmon;
+}
+table {
+    border : 1px solid #ddeeee;
+    border-collapse : collapse;
+    border-spacing : 0;
+    width : 70%;
+    margin : 10px auto 10px auto;
+}
+table thead th {
+    background-color : #ddefef;
+    border : 1px solid #000000;
+    color : #000000;
+    padding : 10px;
+    text-align : left;
+    text-shadow : 1px 1px 1px #fff;
+}
+table tbody td {
+    border: 1px solid #000000;
+    color : #333;
+    padding : 10px;
+    text-align: left;
+}
+a {
+    background-color: salmon;
+    color: #fff;
+    padding: 10px;
+    font-size : 12px;
+    text-decoration : none;
+}
